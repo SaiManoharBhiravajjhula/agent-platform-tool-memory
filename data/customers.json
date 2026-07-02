@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Acme",
+    "renewal_date": "2026-09-15",
+    "health_score": 62,
+    "usage_trend": "down 18% in the last 30 days",
+    "open_tickets": 2,
+    "account_owner": "Priya Shah"
+  },
+  {
+    "name": "Globex",
+    "renewal_date": "2026-11-01",
+    "health_score": 88,
+    "usage_trend": "up 9% in the last 30 days",
+    "open_tickets": 0,
+    "account_owner": "Marcus Lee"
+  }
+]
