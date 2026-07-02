@@ -1,0 +1,10 @@
+[project]
+name = "agent-platform-tool-memory"
+version = "0.1.0"
+description = "AI agent platform with tool use and memory."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
